@@ -2,10 +2,10 @@
 //BY GALO CANIZARES
 
 function setup() {
-  pixelDensity(1);
+  pixelDensity(15);
 
   canvasIMG = createCanvas(window.windowWidth, window.windowHeight);
-  background(375, 0, 0);
+  background(375, 740, 200);
 
 }
 
