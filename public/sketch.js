@@ -5,13 +5,13 @@ function setup() {
   pixelDensity(1);
 
   canvasIMG = createCanvas(window.windowWidth, window.windowHeight);
-  background(255, 0, 0);
+  background(375, 0, 0);
 
 }
 
 function draw() {
   //background(bgr, bgg, bgb, alph);
-  ellipse(mouseX, mouseY, 300, 300);
+  ellipse(mouseX, mouseY, 100, 300);
 
 }
 
