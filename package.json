@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ith90/kewl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ith90/kewl/issues"
+  },
+  "homepage": "https://github.com/ith90/kewl#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
